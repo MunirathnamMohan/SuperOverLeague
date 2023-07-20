@@ -1,0 +1,19 @@
+/* Write your code here. */
+.bgcolor {
+  background-color: #0f172a;
+  height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: #f8fafc;
+  font-family: roboto;
+  text-align: center;
+  padding-top: 70px;
+}
+.image {
+  width: 120px;
+  margin-left: 120px;
+}
+.image2 {
+  width: 120px;
+}
